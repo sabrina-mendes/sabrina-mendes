@@ -14,4 +14,4 @@
 
 ### Contatos
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='Gmail' height='30'>](sabrinaddl21@gmail.com)
+<a href = "mailto:sabrinaddl21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
