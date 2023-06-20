@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**sabrina-mendes/sabrina-mendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Detalhes
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrina-mendes&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projeto
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabrina-mendes&repo=Tik-Tok-Project&true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina-mendes&true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contatos
+
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='Gmail' height='30'>](sabrinaddl21@gmail.com)
